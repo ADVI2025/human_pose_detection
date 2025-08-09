@@ -2,6 +2,10 @@
 
 This project uses **MediaPipe Pose**, **Kalman Filters**, and custom logic to track human joints, smooth movements, calculate joint angles, classify joint movements, and detect overall posture.  
 The system can work in **real-time visualization mode** or in **dataset feature extraction mode** for training ML models.
+Here is the position tracking visualization for different joints:
+![Position Tracking](./Position_tracking.png)
+Here is the action classification for whole bodt:
+![Action Classification](./Action_classification.png)
 
 ---
 
