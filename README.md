@@ -75,7 +75,7 @@ The system can work in **real-time visualization mode** or in **dataset feature 
      - `X_sequences.npy` → sequence features (joint positions, angles, statuses)
      - `y_labels.npy` → action labels
 2. **Model Training**
-   - Train your ML model (e.g., LSTM, GRU, Transformer) using extracted features.
+   - Train your ML model  using extracted features.
 3. **Prediction Mode**
    - Use the trained model to classify actions/postures from live or recorded video.
 
